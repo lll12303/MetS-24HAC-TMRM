@@ -1,6 +1,6 @@
-#  TMRM: A Temporal Multimodal Deep Learning Framework for 24-Hour Activity Cycle Modeling and Major Cardiometabolic Disease Risk Prediction
+#  TMRM: A Temporal Multimodal Deep Learning Framework for 24-Hour Activity Cycle Modeling and Metabolic Syndrome Risk Prediction
 
-We developed a unified deep learning framework termed **TMRM (Temporal Multimodal Risk Model)** to model the **24-hour activity cycle (HAC)**—including sedentary behavior (SB), light physical activity (LPA), moderate-to-vigorous physical activity (MVPA), and sleep—and predict the risk of **major cardiometabolic diseases (MCD)**, including obesity, hypertension, dyslipidemia, and type 2 diabetes (T2D).
+We developed a unified deep learning framework termed **TMRM (Temporal Multimodal Risk Model)** to model the **24-hour activity cycle (HAC)**—including sedentary behavior (SB), light physical activity (LPA), moderate-to-vigorous physical activity (MVPA), and sleep—and predict the risk of **metabolic syndrome (MetS)**, including obesity, hypertension, dyslipidemia, and type 2 diabetes (T2D).
 
 Unlike conventional approaches that focus primarily on total activity volume, TMRM explicitly captures the **temporal structure and behavioral composition of the full 24-hour cycle**, enabling a more precise characterization of lifestyle-related disease risk.
 
